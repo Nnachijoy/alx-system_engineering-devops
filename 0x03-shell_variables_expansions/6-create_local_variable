@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!bin/bash
+=======
+#!/bin/bash
+>>>>>>> 0d6c5606191073106211f9a8a8d9c87dcde92c51
 BEST="School"
